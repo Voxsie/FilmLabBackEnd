@@ -1,0 +1,12 @@
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/bin/Debug/net6.0/DateBase.deps.json
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/bin/Debug/net6.0/DateBase.dll
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/bin/Debug/net6.0/ref/DateBase.dll
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/bin/Debug/net6.0/DateBase.pdb
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.csproj.AssemblyReference.cache
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.AssemblyInfoInputs.cache
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.AssemblyInfo.cs
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.csproj.CoreCompileInputs.cache
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.dll
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/ref/DateBase.dll
+/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.pdb
