@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zheltikov/RiderProjects/FilmLab/FilmLab/FilmLab.csproj": {}
+    "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\FilmLab\\FilmLab.csproj": {}
   },
   "projects": {
-    "/Users/zheltikov/RiderProjects/FilmLab/DateBase/DateBase.csproj": {
+    "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\DateBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zheltikov/RiderProjects/FilmLab/DateBase/DateBase.csproj",
+        "projectUniqueName": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\DateBase.csproj",
         "projectName": "DateBase",
-        "projectPath": "/Users/zheltikov/RiderProjects/FilmLab/DateBase/DateBase.csproj",
-        "packagesPath": "/Users/zheltikov/.nuget/packages/",
-        "outputPath": "/Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/",
+        "projectPath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\DateBase.csproj",
+        "packagesPath": "C:\\Users\\Toxicman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zheltikov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Toxicman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,34 +64,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/zheltikov/.dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/zheltikov/RiderProjects/FilmLab/FilmLab/FilmLab.csproj": {
+    "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\FilmLab\\FilmLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zheltikov/RiderProjects/FilmLab/FilmLab/FilmLab.csproj",
+        "projectUniqueName": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\FilmLab\\FilmLab.csproj",
         "projectName": "FilmLab",
-        "projectPath": "/Users/zheltikov/RiderProjects/FilmLab/FilmLab/FilmLab.csproj",
-        "packagesPath": "/Users/zheltikov/.nuget/packages/",
-        "outputPath": "/Users/zheltikov/RiderProjects/FilmLab/FilmLab/obj/",
+        "projectPath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\FilmLab\\FilmLab.csproj",
+        "packagesPath": "C:\\Users\\Toxicman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\FilmLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zheltikov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Toxicman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/zheltikov/RiderProjects/FilmLab/DateBase/DateBase.csproj": {
-                "projectPath": "/Users/zheltikov/RiderProjects/FilmLab/DateBase/DateBase.csproj"
+              "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\DateBase.csproj": {
+                "projectPath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\DateBase.csproj"
               }
             }
           }
@@ -121,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/zheltikov/.dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

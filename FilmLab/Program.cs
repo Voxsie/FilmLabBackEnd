@@ -2,6 +2,9 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+
+DateBase.DBConnect.Do();
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

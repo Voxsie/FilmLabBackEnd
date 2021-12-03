@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FALvQPighxx+dU727FyYPC3w0uNP7RuDfexb+G/ilkFh316V/JU+j8uaCm2Oudz6xoF8QgagPFDVgaAXlutUkw==",
+  "dgSpecHash": "Cft5bne/uAhSrp1d4PDT8OjaLd3f9h16d1wl3NiPna+Cxndm3TCgGadNyxWCeKrFAfWGN96iikmyxPX8YQDu8w==",
   "success": true,
-  "projectFilePath": "/Users/zheltikov/RiderProjects/FilmLab/DateBase/DateBase.csproj",
+  "projectFilePath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\FilmLabBackEnd\\DateBase\\DateBase.csproj",
   "expectedPackageFiles": [
-    "/Users/zheltikov/.nuget/packages/linq2db/4.0.0-preview.10/linq2db.4.0.0-preview.10.nupkg.sha512",
-    "/Users/zheltikov/.nuget/packages/linq2db.postgresql/4.0.0-preview.10/linq2db.postgresql.4.0.0-preview.10.nupkg.sha512",
-    "/Users/zheltikov/.nuget/packages/npgsql/6.0.1/npgsql.6.0.1.nupkg.sha512",
-    "/Users/zheltikov/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "/Users/zheltikov/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Toxicman\\.nuget\\packages\\linq2db\\4.0.0-preview.10\\linq2db.4.0.0-preview.10.nupkg.sha512",
+    "C:\\Users\\Toxicman\\.nuget\\packages\\linq2db.postgresql\\4.0.0-preview.10\\linq2db.postgresql.4.0.0-preview.10.nupkg.sha512",
+    "C:\\Users\\Toxicman\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\Toxicman\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Toxicman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

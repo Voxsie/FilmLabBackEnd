@@ -10,3 +10,15 @@
 /Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.dll
 /Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/ref/DateBase.dll
 /Users/zheltikov/RiderProjects/FilmLab/DateBase/obj/Debug/net6.0/DateBase.pdb
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\bin\Debug\net6.0\DateBase.deps.json
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\bin\Debug\net6.0\DateBase.dll
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\bin\Debug\net6.0\ref\DateBase.dll
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\bin\Debug\net6.0\DateBase.pdb
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.csproj.AssemblyReference.cache
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.AssemblyInfoInputs.cache
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.AssemblyInfo.cs
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.csproj.CoreCompileInputs.cache
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.dll
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\ref\DateBase.dll
+C:\Users\Toxicman\Desktop\GitHub\FilmLabBackEnd\DateBase\obj\Debug\net6.0\DateBase.pdb

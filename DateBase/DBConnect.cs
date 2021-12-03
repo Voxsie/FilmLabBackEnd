@@ -5,10 +5,10 @@ using LinqToDB;
 
 namespace DateBase
 {
-    class Program
+    public class DBConnect
     {
         static string connectionString = @"Data Source=.\PostgreSQL;Initial Catalog=Films;Integrated Security=True";
-        static void Main(string[] args) 
+        public static void Do() 
         {
             DataContext db = new DataContext(connectionString);
  
